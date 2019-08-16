@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/foodwaterwifi/foodwaterwif
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Testing
+
+Here's what a sentence might look like:
+
+><span class="clause-subj">The Magnificent Joe </span><span class="clause-verb">took </span><span class="clause-obj">his dog </span><span class="clause-prep"><span>for</span> a walk </span>last Sunday.
+
+Hmmm, neat.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

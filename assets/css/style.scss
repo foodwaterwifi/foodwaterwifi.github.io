@@ -2,3 +2,27 @@
 ---
 
 @import "{{ site.theme }}";
+
+.clause-subj {
+    color: red;
+}
+
+.clause-verb {
+    color: purple;
+}
+
+.clause-obj {
+    color: blue;
+}
+
+.clause-compl {
+    color: darkorange;
+}
+
+.clause-prep {
+    color: greenyellow;
+}
+
+.clause-prep span {
+    color: green;
+}
