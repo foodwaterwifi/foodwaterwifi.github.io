@@ -8,7 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here's what a sentence might look like:
 
-><span class="clause-subj">The Magnificent Joe </span><span class="clause-verb">took </span><span class="clause-obj">his dog </span><span class="clause-prep"><span>for</span> a walk </span>last Sunday.
+><span class="clause">
+<subj>The Magnificent Joe</subj> <verb>took</verb> <obj>his dog</obj> <prep><span>for</span> a walk</prep> last Sunday.
+</span>
 
 Hmmm, neat.
 

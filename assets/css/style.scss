@@ -3,26 +3,26 @@
 
 @import "{{ site.theme }}";
 
-.clause-subj {
+.clause subj {
     color: red;
 }
 
-.clause-verb {
+.clause verb {
     color: orchid;
 }
 
-.clause-obj {
+.clause obj {
     color: blue;
 }
 
-.clause-compl {
+.clause compl {
     color: darkorange;
 }
 
-.clause-prep {
+.clause prep {
     color:  wheat;
 }
 
-.clause-prep span {
+.clause prep span {
     color:  greenyellow;
 }
