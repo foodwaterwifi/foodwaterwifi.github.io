@@ -3,15 +3,27 @@
 
 @import "{{ site.theme }}";
 
+.noun {
+    color: yellow;
+    .adj { color: red }
+    .num { color: mediumseagreen }
+    .det { color: fuchsia }
+    .art { color: darkred }
+}
+
 .clause {
+    color: wheat;
     .subj { color: red }
-    .aux-verb { color: orchid }
+    .aux-verb { color: darkorange }
     .verb { color: fuchsia }
-    .verb-part { color: palevioletred }
+    .verb-part { color: orchid }
     .obj { color: blue }
-    .compl { color: darkorange }
+    .ind-obj { color: mediumseagreen }
+    .sub-comp { color: palevioletred }
+    .obj-comp { color: lightskyblue }
     .prep {
-        color: greenyellow;
-        span { color: mediumspringgreen }
+        color: yellow;
+        span { color: mediumseagreen }
     }
 }
+
