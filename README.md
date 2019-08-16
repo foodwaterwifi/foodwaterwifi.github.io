@@ -8,8 +8,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here's what a sentence might look like:
 
-><span class="clause">
-<subj>The Magnificent Joe</subj> <verb>took</verb> <obj>his dog</obj> <prep><span>for</span> a walk</prep> last Sunday.
+>
+<span class="clause">
+    <span class="subj">The Magnificent Joe</span>
+    <span class="aux-verb">will</span>
+    <span class="verb">take</span>
+    <span class="obj">his dog</span>
+    <span class="prep"><span>for</span> a walk</span>
+    <span>next Sunday</span>.
+</span>
+
+>
+<span class="clause">
+    <span class="aux">Will</span>
+    <span class="subj">he</span>
+    <span class="verb">be</span>
+    <span class="compl">able</span>
+    <span class="verb">to come</span>
+    <span class="prep"><span>to</span> the party</span>?
 </span>
 
 Hmmm, neat.

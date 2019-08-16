@@ -3,26 +3,15 @@
 
 @import "{{ site.theme }}";
 
-.clause subj {
-    color: red;
-}
-
-.clause verb {
-    color: orchid;
-}
-
-.clause obj {
-    color: blue;
-}
-
-.clause compl {
-    color: darkorange;
-}
-
-.clause prep {
-    color:  wheat;
-}
-
-.clause prep span {
-    color:  greenyellow;
+.clause {
+    .subj { color: red }
+    .aux-verb { color: orchid }
+    .verb { color: fuchsia }
+    .verb-part { color: palevioletred }
+    .obj { color: blue }
+    .compl { color: darkorange }
+    .prep {
+        color: greenyellow;
+        span { color: mediumspringgreen }
+    }
 }
