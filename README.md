@@ -20,10 +20,21 @@ Here's what a sentence might look like:
 
 >
 <span class="clause">
-    <span class="aux">Will</span>
+    <span class="aux-verb">Will</span>
     <span class="subj">he</span>
     <span class="verb">be</span>
-    <span class="compl">able</span>
+    <span class="compl">able to come to the party?</span>
+</span>
+
+>
+<span class="clause">
+    <span class="aux-verb">Will</span>
+    <span class="subj">he</span>
+    <span class="verb">be</span>
+    <span class="compl">able to come to the party</span>?
+</span>  
+<span class="clause">
+    Will he be able
     <span class="verb">to come</span>
     <span class="prep"><span>to</span> the party</span>?
 </span>
